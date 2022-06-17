@@ -2,7 +2,7 @@
 
 
 ## Getting Started
-[Play the Game here]()!
+[Play the Game here](https://minesweeper-game-with-javascript.netlify.app/)!
 
 ### Basic Gameplay
 1. Select your difficulty level.
